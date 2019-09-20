@@ -8,6 +8,6 @@ Welcome to Disciplined Agile Guild repo
 ## Links
 [Meetups Victoria](https://www.meetup.com/Victoria-Disciplined-Agile-Guild/)
 
-[July-2019 Presentation](./Canada/Victoria/July-2019/DA%20guild-July-Victoria2019.pptx)
+- [July-2019 Presentation](./Canada/Victoria/July-2019)
 
 [Meetups Vancouver](https://www.meetup.com/vancouver-disciplined-agile-guild/)
